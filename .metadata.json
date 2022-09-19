@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "MixSIAR",
+    "oncran": true
+  }
+]
